@@ -1,8 +1,10 @@
-小精靈vs怪獸(approximate Q-learning vs Approximate SARSA)--
+Approximate 版本測試文件
+
+程式執行:
 python start.py -p ApproximateQAgent -g ApproximateGhostQAgent -a extractor=SimpleExtractor  -x 50 -n 60 -l mediumGrid
 
-內部程式大致上由CS188(Berkeley AI course)的Project3修改而來
-只是在專題中有添加了一些檔案(.py)
+-x = 訓練50次，測試10次版本,-n= 程式總運行次數
+
 1. start.py為啟動檔案(主要用於圖形介面的關係)
 2. gametest為按下圖形介面(start、about、exit)後程式所執行的指令
 3. ghostAgents則為怪物的agent

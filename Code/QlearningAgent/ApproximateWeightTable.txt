@@ -1,0 +1,5 @@
+total key:4
+Features: bias	,Weight : 92.29612414975408
+Features: #-of-ghosts-1-step-away	,Weight : -294.7152015122941
+Features: closest-food	,Weight : -16.907520149905878
+Features: eats-food	,Weight : 352.9828244240907

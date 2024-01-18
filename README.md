@@ -8,7 +8,7 @@
 ## Requirement(需要裝置)
 * 可運行Python3.6的電腦即可
 ## 使用說明
-請將CODE內兩文件下載入電腦內，可在Windows Command Prompt執行，執行時需於command Prompt內輸入
+請將Code內兩文件下載入電腦內，可在Windows Command Prompt執行，執行時需於command Prompt內輸入
 * Q-Learning 演算法
   1. cd 至本地QlearningAgent檔案存放地址
   2. 輸入python pacman.py -p PacmanQAgent -x 2000 -n 2010 -l smallGrid
